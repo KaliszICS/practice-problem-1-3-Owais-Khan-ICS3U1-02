@@ -17,7 +17,7 @@ public class PracticeProblem {
 	public static void q1() {
 		System.out.println(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n");
 		System.out.println("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n");
-		System.out.println("* * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *");
+		System.out.println("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *");
 	}
 
 	public static void q2() {

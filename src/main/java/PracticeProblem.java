@@ -1,7 +1,7 @@
 /**
 * File Name: Lesson 1.3 - Strings
 * Author: Owais Ali Khan
-* Date Created: Feb 8, 2023
+* Date Created: Feb 12, 2026
 * Date Last Modified: Feb 12, 2026
 */
 
